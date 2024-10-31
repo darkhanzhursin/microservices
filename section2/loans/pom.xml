@@ -69,7 +69,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
 					<image>
-						<name>eazybytes/${project.artifactId}:s4</name>
+						<name>zhursin/${project.artifactId}:s4</name>
 					</image>
 					<excludes>
 						<exclude>
